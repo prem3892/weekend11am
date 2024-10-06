@@ -1,0 +1,41 @@
+h1{
+color: red;
+
+/* ! text properties */
+text-align: start;
+text-align: center;
+/* text-align: end; */
+
+/* ///////////// */
+
+text-decoration: underline blue dashed;
+text-decoration: overline blue dashed;
+text-decoration: line-through blue dashed;
+text-decoration: underline wavy green;
+
+/* ///////////////////// */
+
+text-transform: lowercase;
+text-transform: capitalize;
+text-transform: uppercase;
+
+/* /////////////////// */
+letter-spacing: 20px;
+word-spacing: 20px;
+text-wrap: nowrap;
+}
+
+.btn1{
+    /* margin-left: 100px; */
+    /* margin: 100px 100px 0px 100px; */
+    margin: 100px 100px;
+}
+
+.btn2{
+    /* padding-left: 100px; */
+    padding: 100px 100px 100px 100px;
+}
+
+body{
+    overflow: hidden;
+}
